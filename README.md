@@ -28,8 +28,3 @@ nohup python -m depth_from_video_in_the_wild.train \
 --imagenet_ckpt=/home/ubuntu/data/ResNet18/model.ckpt \
 --train_steps=1000000 &
 ```
-
- ## Evaluation
-
-
- Please use [this code](https://github.com/go125/struct2depth_eval).
